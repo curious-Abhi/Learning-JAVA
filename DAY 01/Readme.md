@@ -34,10 +34,3 @@ public class HelloWorld {
     }
 }
 
-
-## Summary
-## Day 1: Introduction to Java
-- Set up Java Development Kit (JDK) and Integrated Development Environment (IDE).
-- Wrote and ran my first Java program: "Hello, World!"
-- Learned about the basic structure of a Java program, data types, and variables.
-
