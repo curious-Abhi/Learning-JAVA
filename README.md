@@ -13,7 +13,11 @@ The goal of this repository is to track my progress as I learn Java, specificall
 - Wrote and ran my first Java program: "Hello, World!"
 - Learned about the basic structure of a Java program, data types, and variables.
 
-## Day 2: Upcoming
+## Day 2: Control Flow in Java
+- Learned about if-else statements and loops (for, while, do-while).
+- Completed challenges on checking even/odd numbers, summing natural numbers, printing multiplication tables, and calculating factorials.
+- Pushed all solutions to the `Day 02` directory in this repository.
+
 
 
 ## How to Use this Repository
