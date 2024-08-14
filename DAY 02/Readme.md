@@ -90,8 +90,50 @@ for (initialization; condition; increment/decrement) {
     // code to be executed
 }
 ```
-
 ```Example```
 ```
+for (int i = 0; i < 5; i++) {
+    System.out.println("Iteration: " + i);
+}
 
+```
+### 3.2 while Loop
+The while loop is used when the number of iterations is not known beforehand, and it depends on a condition.
+
+```Syntax```
+```
+while (condition) {
+    // code to be executed
+}
+```
+```Example```
+```
+int i = 1;
+while (i <= 5) {
+    System.out.println("Iteration: " + i);
+    i++;
+}
+```
+
+### 3.3 do-while Loop
+The do-while loop is similar to the while loop, but it guarantees that the loop will execute at least once.
+
+```Syntax```
+```
+do {
+    // code to be executed
+} while (condition);
+```
+```Example```
+```
+int i = 1;
+do {
+    System.out.println("Iteration: " + i);
+    i++;
+} while (i <= 5);
+```
+
+### Practice:
+Experiment with all the control flow structures mentioned above.
+Write simple programs to understand how these structures work.
 
