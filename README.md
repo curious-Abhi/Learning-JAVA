@@ -18,7 +18,12 @@ The goal of this repository is to track my progress as I learn Java, specificall
 - Completed challenges on checking even/odd numbers, summing natural numbers, printing multiplication tables, and calculating factorials.
 - Pushed all solutions to the `Day 02` directory in this repository.
 
-## Day 3: Upcoming
+## Day 3: Arrays and Strings in Java
+- Learned how to declare, initialize, and manipulate arrays.
+- Gained insights into string operations like concatenation, substring extraction, and character search.
+- Completed five challenges on reversing arrays, finding the second largest element, checking for palindromes, rotating arrays, and finding the longest common prefix.
+- Pushed all solutions to the `Day3-Challenges` directory in this repository.
+
 
 
 
